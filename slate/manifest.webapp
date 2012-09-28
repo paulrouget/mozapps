@@ -1,0 +1,13 @@
+{
+  "name": "Slate",
+  "description": "A clean, simple client for Twitter, Instagram and App.net.",
+  "launch_path": "https://www.sharingstate.com",
+  "icons": {
+    "16": "/icon.png",
+  },
+  "developer": {
+    "name": "Paul Rouget (packager)",
+    "url": "http://paulrouget.com"
+  },
+  "default_locale": "en"
+}
