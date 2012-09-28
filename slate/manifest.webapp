@@ -1,9 +1,9 @@
 {
   "name": "Slate",
   "description": "A clean, simple client for Twitter, Instagram and App.net.",
-  "launch_path": "container.html",
+  "launch_path": "/mozapps/slate/container.html",
   "icons": {
-    "128": "icon.png"
+    "128": "/mozapps/slate/icon.png"
   },
   "developer": {
     "name": "Paul Rouget (packager)",
